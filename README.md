@@ -1,7 +1,7 @@
 
 # Talk-A-Tive
 
-website : https://talk-a-tive.herokuapp.com/
+website : https://talk-a-tive-7fgq.onrender.com/
 
 Talk-A-Tive is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
